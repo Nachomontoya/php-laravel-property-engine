@@ -1,4 +1,5 @@
-src
+mysql
+nginx
 /node_modules
 /public/hot
 /public/storage
